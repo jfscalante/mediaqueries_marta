@@ -1,0 +1,32 @@
+.container{
+    width: 95%;
+    margin-top: 15px;
+    display: block;
+
+}
+
+
+@media(max-width:10000px){
+    .img1{
+        width: 89%;
+        background-color: chartreuse;
+    }
+    .img2{
+        width: 89%;
+        background-color: chartreuse;
+    }
+
+ 
+}
+
+@media(min-width:600){
+
+    .img1{
+        width: 89%;
+        background-color: chartreuse;
+    }
+    .img2{
+        width: 89%;
+        background-color: chartreuse;
+    }
+}
